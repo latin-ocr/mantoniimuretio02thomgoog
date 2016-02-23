@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mantoniimuretio02thomgoog_0041.png"; bbox 0 0 3525 5617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 339 1760 1261 1888">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 339 1760 1261 1888">
+     <span class='ocr_line' id='line_1_1' title="bbox 339 1760 1261 1888; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 339 1760 431 1886; x_wconf 88' lang='grc' dir='ltr'>Μ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 537 1762 618 1888; x_wconf 91' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_3' title='bbox 716 1760 1261 1887; x_wconf 72' lang='grc' dir='ltr'><strong>ΜΟΚΕΤΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 291 2578 1367 2833">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 291 2578 1367 2833">
+     <span class='ocr_line' id='line_1_2' title="bbox 291 2578 1367 2833; baseline -0.002 -64"><span class='ocrx_word' id='word_1_4' title='bbox 291 2578 1316 2833; x_wconf 74' lang='lat' dir='ltr'>TAcmANNALEs</span> <span class='ocrx_word' id='word_1_5' title='bbox 1364 2695 1367 2703; x_wconf 83' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 409 3103 1403 3259">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 409 3103 1403 3259">
+     <span class='ocr_line' id='line_1_3' title="bbox 409 3103 1403 3259; baseline 0.001 -48"><span class='ocrx_word' id='word_1_6' title='bbox 409 3103 1178 3259; x_wconf 72' lang='lat' dir='ltr'><strong>coMMENTARws„</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1399 3172 1403 3181; x_wconf 83' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1768 5617">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1768 5617">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1768 5617; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1768 5617; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
